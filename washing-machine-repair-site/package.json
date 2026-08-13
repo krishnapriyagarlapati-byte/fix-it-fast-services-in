@@ -1,0 +1,22 @@
+{
+  "name": "washing-machine-repair-site",
+  "version": "1.0.0",
+  "description": "A premium website for washing machine repair services.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process can be defined here.'"
+  },
+  "keywords": [
+    "washing machine",
+    "repair",
+    "services",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
